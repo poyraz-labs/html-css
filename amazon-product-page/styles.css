@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.bold {
+   font-weight: bold;
+}
+
+.product-detail {
+    display:flex !important;
+    column-gap: 24px;
+}
+
+.product-img {
+    display:flex;
+    flex-direction:column;
+    row-gap:12px;
+}
+
+.product-info {
+    display:flex;
+    flex-direction:column;
+    row-gap:4px;
+}
+
+.breadcrumb {
+    font-size: 0.8rem;
+    color: #565959;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 250px;
+}
+
+.author {
+    font-size: 0.9rem;
+    color: #565959;
+    font-weight:normal;
+}
+
+.author a {
+    color: #007185;
+}
+
+.star {
+    width: 160px;
+}
