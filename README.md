@@ -19,6 +19,7 @@ This repository contains a collection of small HTML and CSS practice projects bu
 | --- | --- | --- |
 | HTML & CSS Scrimba | HTML / CSS | ![HTML & CSS Scrimba](assets/htmlCssScrimba.png) |
 | CSS Grid Scrimba | CSS Grid | ![CSS Grid Scrimba](assets/cssGridScrimba.png) |
+| CSS Animations Scrimba | CSS Animations | ![CSS Animations Scrimba](assets/cssAnimationsScrimba.png) |
 
 ## Running A Project
 
