@@ -1,0 +1,14 @@
+{
+  "name": "feature-section-grid",
+  "description": "Grid tabanlı özellikler bölümü projesi",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
