@@ -15,10 +15,10 @@ This repository contains a collection of small HTML and CSS practice projects bu
 
 ## Certificates
 
-| Certificate | Category | File |
+| Certificate | Category | Preview |
 | --- | --- | --- |
-| HTML & CSS Scrimba | HTML / CSS | `assets/htmlCssScrimba.png` |
-| CSS Grid Scrimba | CSS Grid | `assets/cssGridScrimba.png` |
+| HTML & CSS Scrimba | HTML / CSS | ![HTML & CSS Scrimba](assets/htmlCssScrimba.png) |
+| CSS Grid Scrimba | CSS Grid | ![CSS Grid Scrimba](assets/cssGridScrimba.png) |
 
 ## Running A Project
 
