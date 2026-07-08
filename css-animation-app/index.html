@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Animasyon App</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <section class="hero">
+        <p class="eyebrow">Animation Practice</p>
+        <h1>Basit CSS Animasyon App</h1>
+        <p class="lead">
+          Hover, yüklenme hissi, kayan kartlar ve küçük mikro hareketlerle hazırlanmış sade bir CSS animasyon uygulaması.
+        </p>
+      </section>
+
+      <section class="controls" aria-label="Animasyon araçları">
+        <button class="chip chip-active" type="button">All</button>
+        <button class="chip" type="button">Fade</button>
+        <button class="chip" type="button">Pulse</button>
+        <button class="chip" type="button">Slide</button>
+      </section>
+
+      <section class="showcase" aria-label="Animasyon kartları">
+        <article class="panel panel-fade">
+          <span class="badge">Fade</span>
+          <h2>Yumuşak giriş</h2>
+          <p>Sayfa açıldığında hafif yukarı kalkarak gelen kart.</p>
+        </article>
+
+        <article class="panel panel-pulse">
+          <span class="badge">Pulse</span>
+          <h2>Canlı vurgu</h2>
+          <p>Odak noktası yaratmak için hafif nefes alan bir yapı.</p>
+        </article>
+
+        <article class="panel panel-slide">
+          <span class="badge">Slide</span>
+          <h2>Kayarak görünme</h2>
+          <p>İçerik bloklarını sırayla hissettiren yatay hareket.</p>
+        </article>
+
+        <article class="panel panel-loader">
+          <span class="badge">Loader</span>
+          <h2>Mini yükleme</h2>
+          <div class="loader" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </article>
+      </section>
+
+      <section class="footer-note">
+        <p>Hedef: kısa ama kullanışlı bir CSS animasyon pratiği.</p>
+      </section>
+    </main>
+  </body>
+</html>
