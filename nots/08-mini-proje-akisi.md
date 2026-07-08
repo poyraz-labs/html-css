@@ -16,11 +16,9 @@
 İlk proje çok büyük olmamalı. Amaç kusursuz sonuç değil, hızlı tekrar ve pratik yapmaktır.
 
 ## Mini Proje Fikirleri
-- Kart listesi
-- Basit portfolio bölümü
-- Ürün galeri sayfası
-- Özellikler bölümü
-- Basit landing page
+1. Kart grid sistemi: 6-9 kartlık bir ürün veya içerik listesi, responsive kolon yapısı ve hover efekti ile.
+2. Galeri sayfası: farklı boyutlarda görsellerin grid ile yerleştiği, boşlukları dengeli bir galeri tasarımı.
+3. Özellikler bölümü: 3-4 kutulu bir landing page alanı, grid ile düzenlenmiş ve küçük giriş animasyonları olan yapı.
 
 ## Sık Yapılan Hata
 - Aynı anda çok fazla şey eklemek.
